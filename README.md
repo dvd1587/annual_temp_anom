@@ -1,4 +1,4 @@
-# Annual Temperature Anomalies Forecasting
+# Global Annual Temperature Anomalies Forecasting
 
 ### [Kaggle Demonstration](https://www.kaggle.com/code/dvd1587/global-temperatures-time-series-forecasting)
 
